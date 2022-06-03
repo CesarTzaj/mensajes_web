@@ -1,0 +1,5 @@
+*.netbeans_automatic_build
+target/classes/com/mycompany/mensajes/Conexion.class
+target/classes/com/mycompany/mensajes/inicio.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
